@@ -7,6 +7,7 @@
 
 #include <stdlib.h>
 
+//Tanam - tanam ubi, tak perlu dibaje
 
 void myInit(void)
  {
