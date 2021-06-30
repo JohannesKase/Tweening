@@ -4,7 +4,7 @@
 #else
 #include <GL/glut.h>
 #endif
-
+//aku disini
 #include <stdlib.h>
 
 //Tanam - tanam ubi, tak perlu dibaje
